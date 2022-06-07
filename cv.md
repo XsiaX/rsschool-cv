@@ -38,10 +38,10 @@ My name is Anastasiia. I from Ukraine. I am a second-year student of Dnipro Univ
 
 ---
 
-| High-school education                                                                     | Computer Science (Bachelor Degree)                                                              |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 2009 – 2020                                                                               | 2020 – present time                                                                             |
-| Basic educational institution "Apostolovska Secondary School №1 of Dnipropetrovsk region" | Dnipro University of Technology, Faculty of Information Technology, Spe-cialty Computer Science |
+| High-school education                                                                     | Computer Science (Bachelor Degree)                                                             |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 2009 – 2020                                                                               | 2020 – present time                                                                            |
+| Basic educational institution "Apostolovska Secondary School №1 of Dnipropetrovsk region" | Dnipro University of Technology, Faculty of Information Technology, Specialty Computer Science |
 
 Graduated with High Honors
 
