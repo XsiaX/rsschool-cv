@@ -1,0 +1,188 @@
+/* Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,400;0,500;1,400;1,500&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+.wrapper {
+  /* min-height: 100%; */
+  max-width: 1270px;
+  margin: 0 auto;
+  background-color: rgba(84, 81, 87, 0.047);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.cv__row {
+  display: flex;
+  width: 100%;
+  font-family: "Exo", sans-serif;
+  font-size: 18px;
+}
+
+.cv__left-block {
+  background-color: rgb(0, 0, 0);
+  width: 25%;
+  color: #fff;
+}
+.cv__port {
+  height: 350px;
+  max-width: 100%;
+}
+.cv__port img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Contact styles start*/
+.cv__contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.cv_contact__title {
+  font-family: "Cinzel", serif;
+  font-size: 26px;
+  color: goldenrod;
+  padding: 10px;
+}
+.cv_contact__items {
+  padding-left: 10px;
+}
+
+.cv_contact__item {
+  width: 90%;
+}
+/* Contact styles end*/
+
+/*Education styles start*/
+.section-title {
+  padding: 15px 20px;
+  font-family: "Cinzel", serif;
+  font-size: 26px;
+  color: goldenrod;
+}
+
+.items {
+  padding-left: 20px;
+  margin-bottom: 5px;
+  padding-right: 5px;
+}
+.title {
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.desc {
+  margin-bottom: 15px;
+}
+/*Education styles end*/
+
+/* Training styles start*/
+.cv__training_item:nth-child(3) {
+  margin-bottom: 15px;
+}
+/* Training styles end*/
+
+/* RIGHT BLOCK STYLES START*/
+.cv__right-block {
+  width: 75%;
+}
+
+/* Header styles start*/
+.header {
+}
+
+.header__menu {
+  width: 100%;
+  background-color: goldenrod;
+}
+
+.nav {
+}
+
+.menu__list {
+  justify-content: space-evenly;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.menu__item:not(:nth-child(4)) {
+  margin-top: 12px;
+}
+
+.menu__link {
+  font-weight: 500;
+  color: black;
+}
+.menu__logo-link {
+}
+
+.menu__logo-pic {
+}
+/* Header styles end*/
+
+/* !Info styles start*/
+.info {
+  padding: 10px 20px;
+}
+
+.info__name {
+  font-family: "Cinzel", serif;
+  font-size: 36px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  color: goldenrod;
+}
+
+.info__position {
+  padding-left: 10px;
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.info__desc-title {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.info__desc-content {
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.hr {
+  width: 80%;
+  margin: 0 auto;
+  height: 1px;
+  background-color: #000;
+}
+/* !Info styles end*/
+
+/* !Work styles start*/
+.cv__work_item:nth-child(2) {
+  margin-bottom: 15px;
+}
+/* !Work styles end*/
+
+/* !Code styles start*/
+.cv__code_item-title {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.cv__code_item-code {
+}
+/* !Code styles end*/
+
+/* RIGHT BLOCK STYLES END*/
+
+/* Footer styles start */
+.footer {
+}
+
+.footer__container {
+}
+/* Footer styles end */
