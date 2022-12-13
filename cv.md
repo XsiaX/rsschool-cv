@@ -8,7 +8,7 @@
 
 ### **Hello, i'm Anastasiia**
 
-My name is Anastasiia. I from Ukraine. I am a second-year student of Dnipro University of Tecnology, Faculty of Information Technology, Specialty Computer Science. I can describe myself as a detail-oriented and hardworking person. Also i have good communication and leadership skills. I can distribute work in a structured way and clearly plan a schedule. Ready to learn new techology and apply knowledge in practice.
+My name is Anastasiia. I from Ukraine. I am a third-year student of Dnipro University of Tecnology, Faculty of Information Technology, Specialty Computer Science. In addition, I am student of Reutlingen University (Germany) at the same specialty.I can describe myself as a detail-oriented and hardworking person. Also i have good communication and leadership skills. I can distribute work in a structured way and clearly plan a schedule. Ready to learn new techology and apply knowledge in practice.
 
 ## HARD SKILLS
 
@@ -23,6 +23,7 @@ My name is Anastasiia. I from Ukraine. I am a second-year student of Dnipro Univ
 ---
 
 - English B2
+- German A1
 
 ## EDUCATION
 
@@ -31,7 +32,9 @@ My name is Anastasiia. I from Ukraine. I am a second-year student of Dnipro Univ
 | High-school education                                                                     | Computer Science (Bachelor Degree)                                                             |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 2009 – 2020                                                                               | 2020 – present time                                                                            |
-| Basic educational institution "Apostolovska Secondary School №1 of Dnipropetrovsk region" | Dnipro University of Technology, Faculty of Information Technology, Specialty Computer Science |
+| Basic educational institution "Apostolivska Secondary School №1 of Dnipropetrovsk region" | Dnipro University of Technology, Faculty of Information Technology, Specialty Computer Science |
+|                                                                                           | 2022 - present time                                                                            |
+|                                                                                           | Reutlingen University, Media and Communications Informatics                                    |
 
 Graduated with High Honors
 
@@ -43,6 +46,8 @@ Graduated with High Honors
 | -------------------------------------------------------- | ------------------------------- |
 | 19.04.2022 – 18.05.2022                                  | 01.06.2022 – present time       |
 | EPAM Marathon of IT technologies for students of Ukraine | Course: “JS/FRONT-END. STAGE 0” |
+| 02.11.2022 - 24.11.2022                                  |                                 |
+| EPAM Marathon of IT technologies                         |                                 |
 
 ## CODE EXAMPLES
 
