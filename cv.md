@@ -1,6 +1,5 @@
 # **Anastasiia But**
 
-<style>
 <img src="./photo.jpg" alt="drawing" style="width:200px;"/>
 
 ##### _Student & Web Developer_
