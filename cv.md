@@ -1,16 +1,7 @@
 # **Anastasiia But**
 
 <style>
-img[alt$="<"] {
-  float: left;
-  margin-right: 10px;
-  width: 210px;
-  height: 250px
-}
-
-</style>
-
-![image alt <](./photo.jpg)
+<img src="./photo.jpg" alt="drawing" style="width:200px;"/>
 
 ##### _Student & Web Developer_
 
